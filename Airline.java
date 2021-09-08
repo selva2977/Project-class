@@ -1,10 +1,10 @@
 
 public class Airline {
-public static void airindia() {
+public static void airindiafly() {
 System.out.println("sold");
 }
 public static void main(String[] args) {
-	airindia();
+	airindiafly();
 }
 }
 
